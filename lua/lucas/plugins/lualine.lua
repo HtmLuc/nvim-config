@@ -66,6 +66,6 @@ return {
           { "filetype" },
         },
       },
-    },
+    })
   end,
 }
